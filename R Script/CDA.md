@@ -1,6 +1,6 @@
 Cyclistic Data Analysis (Capstone Case Study)
 ================
-Vinayak Kumar Pathak
+Vinayak Kumar Pathak <br>
 December 2022
 
 ## Setup
