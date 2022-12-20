@@ -186,7 +186,7 @@ Now, various charts are created to visualize number of rides taken by different 
 
 --
 
-The above visualizations & findings puts a strong evidence in favour of the initial hypothesis. Hence our Hypothesis is confirmed.
+#### The above visualizations & findings puts a strong evidence in favour of the initial hypothesis. Hence our Hypothesis is confirmed.
 
 ----
 
